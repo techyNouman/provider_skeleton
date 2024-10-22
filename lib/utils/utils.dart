@@ -3,7 +3,7 @@ import 'package:another_flushbar/flushbar_route.dart';
 import 'package:flutter/material.dart';
 import 'package:another_flushbar/flushbar.dart';
 import 'package:http/http.dart' as http;
-import 'package:provider_skeleton/utils/app_constants.dart';
+import '../../utils/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 displayFlushBar(String message, bool isSuccess, BuildContext context) {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:provider_skeleton/presentation/resources/theme.dart';
-import 'package:provider_skeleton/presentation/screens/splash/splash_screen.dart';
-import 'package:provider_skeleton/routes/routes.dart';
-import 'package:provider_skeleton/routes/routes_name.dart';
+import '../../presentation/resources/theme.dart';
+import '../../presentation/screens/splash/splash_screen.dart';
+import '../../routes/routes.dart';
+import '../../routes/routes_name.dart';
 import 'package:provider/provider.dart';
 
 import 'domain/viewmodel/auth_view_model.dart';

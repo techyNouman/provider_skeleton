@@ -1,5 +1,5 @@
 
-import 'package:provider_skeleton/domain/network/status.dart';
+import '../../domain/network/status.dart';
 
 class ApiResponse<T>{
 

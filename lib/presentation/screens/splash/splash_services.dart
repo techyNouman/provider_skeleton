@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
-import 'package:provider_skeleton/presentation/screens/splash/user_model.dart';
+import '../../../presentation/screens/splash/user_model.dart';
 
 import '../../../domain/viewmodel/user_view_model.dart';
 

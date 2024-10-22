@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:provider_skeleton/routes/routes_name.dart';
+import '../../routes/routes_name.dart';
 import '../presentation/screens/splash/splash_screen.dart';
 
 

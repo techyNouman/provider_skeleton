@@ -4,7 +4,7 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
-import 'package:provider_skeleton/domain/network/base_api_service.dart';
+import '../../domain/network/base_api_service.dart';
 
 import '../../utils/utils.dart';
 import 'api_url.dart';
